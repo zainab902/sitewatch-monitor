@@ -1,0 +1,17 @@
+Website,URL,Status,HTTP Code,Response Time (ms),Error,Checked At,Source
+Google,https://www.google.com,UP,200,421.83,,2026-10-17 15:30:24,
+GitHub,https://www.github.com,UP,200,537.4,,2026-10-17 15:30:25,
+Google,https://www.google.com,UP,200,613.18,,2026-10-17 15:31:42,
+GitHub,https://www.github.com,UP,200,1896.91,,2026-10-17 15:31:44,
+Google,https://www.google.com,UP,200,589.72,,2026-10-17 15:31:45,
+GitHub,https://www.github.com,UP,200,568.3,,2026-10-17 15:31:45,
+Google,https://www.google.com,UP,200,477.76,,2026-10-17 15:31:45,
+GitHub,https://www.github.com,UP,200,520.87,,2026-10-17 15:31:46,
+Google,https://www.google.com,UP,200,445.63,,2026-10-17 15:31:46,
+GitHub,https://www.github.com,UP,200,571.09,,2026-10-17 15:31:47,
+Google,https://www.google.com,UP,200,544.26,,2026-10-17 15:37:17,
+GitHub,https://www.github.com,UP,200,541.3,,2026-10-17 15:37:18,
+Google,https://www.google.com,UP,200,599.71,,2026-10-17 15:39:53,
+GitHub,https://www.github.com,UP,200,498.91,,2026-10-17 15:39:54,
+Google,https://www.google.com,UP,200,452.05,,2026-10-17 16:14:01,Local
+GitHub,https://www.github.com,UP,200,500.03,,2026-10-17 16:14:02,Local

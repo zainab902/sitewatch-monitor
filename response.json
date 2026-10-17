@@ -1,0 +1,1 @@
+{"results": [{"website": "https://www.google.com", "status": "UP", "http_code": 200, "response_time_ms": 443.83, "error": null}, {"website": "https://www.github.com", "status": "UP", "http_code": 200, "response_time_ms": 94.02, "error": null}]}
